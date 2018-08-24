@@ -1,7 +1,5 @@
 # Matrix-Transpose
-Transpose any matrix, up to 100 by 100. 
-
-Transpose any matrix up to 100 by 100.
+Transpose any matrix up to 100 by 100. 
 
 
 For example given a Matrix:
